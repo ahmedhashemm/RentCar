@@ -8,6 +8,3 @@
 
 <img src='https://github.com/Ronak99/RentCar-App-UI/blob/master/screenshot/s2.png' align='left' width='35%'>
 
-=======
-# RentCar
->>>>>>> a1492ecb375b41631d01d4fa9545de00d758937b
